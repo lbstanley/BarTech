@@ -45,7 +45,7 @@ Alloy Steels (Tool steels, HSLA Steels, stainless steels, 5160) - perhaps a proc
 Inconel or other superalloys
 Magsilium (Magnesium and Sillicon Carbide)
 Thermonine (Tantalum Hafnium Carbide)
-Hyprinine (Steel with 
+Hyprinine (Steel with Diamond Nanorods and Boron Nanotubes)
 Tin Bronze
 Hepatizon
 Brass
@@ -103,6 +103,7 @@ Plastics (PVC, HDPE, Polystyrene, Polypropylene, Polyesther, High Impact Plastic
 Fiberglass
 Carbon Fibre
 Diamond Nanorods
+Boron Nanotubes
 Aluminum Oxynitride
 Silica Aerogel
 Gasoline
@@ -111,6 +112,7 @@ Calcium Copper Titanate (for its dielectric properties)
 Kerosene
 Propane
 Silicon Carbide
+Tungsten Carbide
 
 -Fantasy
 
