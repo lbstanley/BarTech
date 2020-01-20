@@ -110,7 +110,7 @@ Fire Clay/Fire Brick
 Calcium Copper Titanate (for its dielectric properties)
 Kerosene
 Propane
-
+Silicon Carbide
 
 -Fantasy
 
