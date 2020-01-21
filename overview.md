@@ -23,7 +23,6 @@ Manganese
 Magnesium
 Tantalum
 Hafnium
-Magnesium
 Platinum
 Mercury
 Neodymium
