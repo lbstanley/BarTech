@@ -89,6 +89,7 @@ Bitumen/Petroleum
 Talc
 Barite
 Methane in Rock
+Cryolite
 
 -Chemicals
 Stuff for Nuclear Fuel Processing (Amonium Diuranate, Uranium Hexafluoride, Uranium Dioxide, Uranyl Nitrate)
