@@ -147,14 +147,10 @@ Grinder
 Centrifuge
 Reaction Chamber
 Distillery
-Oil Refinery
-Kiln
 Sawmill
 Arc Furnace
 Diamond Anvil Cell
 Compressor
-Mill
-Lathe
 Cryogenic Chamber
 Vacuum Chamber
 
